@@ -1,0 +1,19 @@
+p{
+   background-color: lightpink;
+   font-family: "Verdana", "DejaVu", sans-serif; 
+}
+
+#ID{
+    color: blue;
+    font-size: 36px;
+}
+
+.cooler.class{
+    font-size: 24px;
+}
+
+#another{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
